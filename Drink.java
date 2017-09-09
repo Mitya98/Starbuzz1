@@ -16,6 +16,7 @@ public class Drink {
                     R.drawable.cappuccino),
             new Drink("Filter", "Highest quality beans roasted and brewed fresh",
                     R.drawable.filter)
+
     };
     //Для каждого напитка хранится имя, описание и ресурс изображения
     private Drink(String name, String description, int imageResourceId) {
